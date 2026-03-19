@@ -131,25 +131,7 @@ An educational platform with a built-in AI assistant that helps check homework, 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Azabrazafaza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azabrazafaza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Azabrazafaza&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
-
----
-
-## ✨ Personal Note
+##  Personal Note
 
 I believe growth comes from discipline, curiosity, and consistency.  
 I like building products, learning fast, and pushing myself to a higher level every step of the way.
