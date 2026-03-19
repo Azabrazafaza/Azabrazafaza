@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Azamat
+# Hi, I'm Azamat !
 
 ### Tech Enthusiast • Frontend Developer • UI/UX Explorer
 
