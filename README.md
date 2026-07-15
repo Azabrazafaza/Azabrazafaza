@@ -2,7 +2,7 @@
 
 # Hi, I'm Azamat !
 
-### Tech Enthusiast • Frontend Developer • UI/UX Explorer
+### Tech Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Tech+Enthusiast;UI%2FUX+Explorer;Always+learning+something+new;Building+modern+web+experiences" alt="Typing SVG" />
 
